@@ -35,3 +35,4 @@ blocks:
 _template: landingPage
 ---
 
+lorem ipsum
